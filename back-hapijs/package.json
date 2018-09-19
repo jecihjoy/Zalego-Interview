@@ -1,0 +1,20 @@
+{
+  "name": "back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jj",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.2",
+    "good": "^8.1.1",
+    "hapi": "^17.5.4",
+    "inert": "^5.1.0",
+    "mysql": "^2.16.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  }
+}
